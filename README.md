@@ -22,6 +22,13 @@ I made the UI pixel perfect and it looks good.
 #### You can contribute to this project as well.
     
   ## Screenshots below
+  ![Alex Murray](https://user-images.githubusercontent.com/53568423/134974971-1eb1a042-8482-4be2-8bdd-bd4fa97d3652.png)
+![Chat](https://user-images.githubusercontent.com/53568423/134974979-6f2e5d6d-d25e-48e9-aeab-445823d006b9.png)
+![Chatting](https://user-images.githubusercontent.com/53568423/134974981-115c9b94-a0d0-425d-8d87-09e7e772b9f7.png)
+![Home #2](https://user-images.githubusercontent.com/53568423/134974983-5c107f00-269c-4354-8e88-758dd53fdd57.png)
+![Onboarding](https://user-images.githubusercontent.com/53568423/134974988-38c4ba01-b3e8-4c88-9730-41ff41b9700a.png)
+![Sign up](https://user-images.githubusercontent.com/53568423/134974989-56082e47-0a19-4c20-a83d-ae9a95a9c2d8.png)
+
   
 
 ## Thank You! 😎
